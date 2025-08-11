@@ -8,12 +8,12 @@ namespace SistemaInventario.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class categoriaController : ControllerBase
+    public class CategoriaController : ControllerBase
     {
         private readonly ICategoriaService _categoriaService;
 
         // Inyección de dependencias
-        public categoriaController(ICategoriaService categoriaService)
+        public CategoriaController(ICategoriaService categoriaService)
         {
             _categoriaService = categoriaService;
         }
