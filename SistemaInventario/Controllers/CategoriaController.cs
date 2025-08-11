@@ -19,14 +19,14 @@ namespace SistemaInventario.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet("GetAll")]
         public async Task<ActionResult<IEnumerable<Categorias>>> GetAll()
         {
             var categorias = await _categoriaService.GetAllAsync();
             return Ok(categorias);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetById")]
         public async Task<ActionResult<Categorias>> GetById(int id)
         {
             var categoria = await _categoriaService.GetByIdAsync(id);
@@ -35,7 +35,7 @@ namespace SistemaInventario.Controllers
         }
 
 
-        [HttpPost]
+        [HttpPost("Create")]
         public async Task<ActionResult<Categorias>> Create(Categorias categorias)
         {
 
@@ -45,7 +45,7 @@ namespace SistemaInventario.Controllers
         }
 
 
-        [HttpPut("{id}")]
+        [HttpPut("Update")]
         public async Task<IActionResult> Update(int id, Categorias categorias)
         {
             await _categoriaService.UpdateAsync(categorias);
@@ -53,7 +53,7 @@ namespace SistemaInventario.Controllers
         }
 
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete")]
         public async Task<IActionResult> Delete(int id)
         {
             var categoria = await _categoriaService.GetByIdAsync(id);

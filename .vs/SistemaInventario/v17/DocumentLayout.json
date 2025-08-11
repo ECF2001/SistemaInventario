@@ -3,16 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\datos\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,14 +115,6 @@
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,14 +135,6 @@
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\datos\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\datos\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,24 +143,8 @@
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\dto\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\dto\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -119,10 +155,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\sistemainventario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\sistemainventario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\manager\\repositorio\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\manager\\repositorio\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C7F0FC-3D71-4602-96DC-0A88D4E2DD0B}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\ssola\\source\\repos\\sistemainventariorepo\\sistemainventario\\sistemainventario\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -151,69 +183,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\UserService.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\UserService.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\UserService.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\UserService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:09:35.832Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:09:44.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "SistemaInventario\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T20:59:46.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "SistemaInventario\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T20:57:48.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\appsettings.json",
-              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\appsettings.json",
-              "RelativeToolTip": "SistemaInventario\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T21:05:03.772Z"
+              "DocumentIndex": 5,
+              "Title": "DetalleVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\DetalleVentaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\DetalleVentaController.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\DetalleVentaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\DetalleVentaController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:39:24.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:57:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:59:13.912Z"
             },
             {
               "$type": "Document",
@@ -223,350 +249,86 @@
               "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\UserController.cs",
               "RelativeToolTip": "SistemaInventario\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:09:52.491Z",
+              "WhenOpened": "2025-08-11T21:09:52.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:38:48.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICrud.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ICrud.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ICrud.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ICrud.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ICrud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:41:47.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:57.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:05:16.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:30.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Program.cs",
-              "RelativeToolTip": "SistemaInventario\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:58:59.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\AuthService.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\AuthService.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\AuthService.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\AuthService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:03:43.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProveedorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:41:44.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Proveedores.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Proveedores.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Proveedores.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Proveedores.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Proveedores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:35:23.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:04:07.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:04:18.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T21:04:09.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "SistemaInventario\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIBYwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T20:57:33.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProveedoresController.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedoresController.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\ProveedoresController.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\ProveedoresController.cs",
-              "RelativeToolTip": "SistemaInventario\\Controllers\\ProveedoresController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T20:59:13.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProveedorService.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:41:45.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:33.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:58.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "CategoriaService.cs",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\CategoriaService.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\CategoriaService.cs",
               "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\CategoriaService.cs",
               "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\CategoriaService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T21:54:11.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\EfRepository.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\EfRepository.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\EfRepository.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\EfRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\DetalleVenta.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:32.706Z"
+              "WhenOpened": "2025-08-11T22:34:41.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:54:02.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Productos.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Productos.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Productos.cs",
-              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:33:43.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 7,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Categorias.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Categorias.cs",
               "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Categorias.cs",
               "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Categorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T21:33:42.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Manager.csproj.nuget.g.targets",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-22T22:16:29.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Manager.csproj.nuget.g.props",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-22T22:16:29.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Manager.csproj.nuget.dgspec.json",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T21:34:10.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "DetalleVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\DetalleVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\DetalleVentaRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\DetalleVentaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\DetalleVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T22:13:52.185Z"
+              "WhenOpened": "2025-08-11T23:01:57.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SistemaInventario.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\UserService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\UserService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\UserService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\UserService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T22:14:05.582Z"
+              "WhenOpened": "2025-08-11T21:09:35.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SistemaInventario.csproj",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
-              "RelativeDocumentMoniker": "SistemaInventario\\SistemaInventario.csproj",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
-              "RelativeToolTip": "SistemaInventario\\SistemaInventario.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-22T22:14:35.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SistemaInventario.http",
-              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
-              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
-              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
-              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-22T22:14:34.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 15,
               "Title": "CategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\CategoriaRepository.cs",
@@ -578,7 +340,379 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeToolTip": "SistemaInventario\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:58:59.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\DetalleVentaService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\DetalleVentaService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\DetalleVentaService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\DetalleVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:02:30.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:09:44.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:41:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Ventas.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Ventas.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Ventas.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:34:18.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\VentaService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\VentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:42:39.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:57.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:58.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ICrud.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ICrud.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ICrud.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:41:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\appsettings.json",
+              "RelativeToolTip": "SistemaInventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T21:05:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Productos.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Productos.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Productos.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Productos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:43.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Proveedores.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\Proveedores.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:35:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SistemaInventario\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:59:46.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\UsersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:05:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:30.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\AuthService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\AuthService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:03:43.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\ProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:41:44.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:04:07.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Repositorio\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:04:18.17Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:04:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ProveedorService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:41:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:33.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\EfRepository.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Datos\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Datos\\EfRepository.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Datos\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:33:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
+              "RelativeToolTip": "SistemaInventario\\Manager\\Servicios\\ProductoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:54:02.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Manager.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-22T22:16:29.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Manager.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-22T22:16:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Manager.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\obj\\Manager.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T21:34:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:13:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SistemaInventario.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\SistemaInventario.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:14:05.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SistemaInventario.csproj",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+              "RelativeDocumentMoniker": "SistemaInventario\\SistemaInventario.csproj",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+              "RelativeToolTip": "SistemaInventario\\SistemaInventario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T22:14:35.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SistemaInventario.http",
+              "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
+              "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
+              "ToolTip": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
+              "RelativeToolTip": "..\\..\\SistemaInventario\\SistemaInventario\\SistemaInventario.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-22T22:14:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventarioRepo\\SistemaInventario\\SistemaInventario\\libman.json",
               "RelativeDocumentMoniker": "SistemaInventario\\libman.json",
@@ -590,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ssola\\source\\repos\\SistemaInventario\\SistemaInventario\\Manager\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\SistemaInventario\\SistemaInventario\\Manager\\Program.cs",

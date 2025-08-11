@@ -37,10 +37,11 @@ ScaffoldingReadMe.txt
 *.snupkg
 
 # Others
+.vs/
 ~$*
 *~
 CodeCoverage/
-.vs/
+
 
 # MSBuild Binary and Structured Log
 *.binlog

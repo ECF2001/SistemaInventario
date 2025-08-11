@@ -66,6 +66,11 @@ builder.Services.AddEndpointsApiExplorer();
 
 
 builder.Services.AddScoped<AppDbContext.AppDbContext>();
+builder.Services.AddScoped<IDetalleVentaRepository, DetalleVentaRepository>();
+builder.Services.AddScoped<IDetalleVentaService, DetalleVentaService>();
+
+builder.Services.AddScoped<IVentaRepository, VentaRepository>();
+builder.Services.AddScoped<IVentaService, VentaService>();
 
 builder.Services.AddScoped<IProveedorRepository, ProveedorRepository>();
 builder.Services.AddScoped<IProveedorService, ProveedorService>();

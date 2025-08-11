@@ -19,7 +19,7 @@ namespace Laboratorio_1.Controllers
         }
 
         // Obtener todos los proveedores
-        [HttpGet]
+        [HttpGet("GetAll")]
         public async Task<ActionResult<IEnumerable<Proveedores>>> GetAll()
         {
             var proveedores = await _proveedorService.GetAllAsync();
@@ -27,7 +27,7 @@ namespace Laboratorio_1.Controllers
         }
 
         // Obtener proveedor por ID
-        [HttpGet("{id}")]
+        [HttpGet("GetById")]
         public async Task<ActionResult<Proveedores>> GetById(int id)
         {
             var proveedor = await _proveedorService.GetByIdAsync(id);
@@ -36,7 +36,7 @@ namespace Laboratorio_1.Controllers
         }
 
         // Crear un nuevo proveedor
-        [HttpPost]
+        [HttpPost("Create")]
         public async Task<ActionResult<Proveedores>> Create(Proveedores proveedor)
         {
             await _proveedorService.CreateAsync(proveedor);
@@ -44,7 +44,7 @@ namespace Laboratorio_1.Controllers
         }
 
         // Actualizar un proveedor
-        [HttpPut("{id}")]
+        [HttpPut("Update")]
         public async Task<IActionResult> Update(int id, Proveedores proveedor)
         {
             await _proveedorService.UpdateAsync(proveedor);
@@ -52,7 +52,7 @@ namespace Laboratorio_1.Controllers
         }
 
         // Eliminar un proveedor
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete")]
         public async Task<IActionResult> Delete(int id)
         {
             var proveedor = await _proveedorService.GetByIdAsync(id);
