@@ -1,5 +1,3 @@
-using DreamInCode.Manager.Repository;
-using DreamInCode.Manager.Services;
 using Manager.Repositorio;
 using Manager.Servicios;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -7,6 +5,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using SistemaInventario.Manager.Servicios;
 using System.Text;
+using SistemaInventario.Manager.Repositorio;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -85,6 +85,16 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 
+builder.Services.AddScoped<ICompraRepository, CompraRepository>();
+builder.Services.AddScoped<IDetalleCompraRepository, DetalleCompraRepository>();
+builder.Services.AddScoped<ICompraService, CompraService>();
+
+builder.Services.AddScoped<IMovimientoRepository, MovimientoRepository>();
+builder.Services.AddScoped<ICompraRepository, CompraRepository>();
+builder.Services.AddScoped<IDetalleCompraRepository, DetalleCompraRepository>();
+builder.Services.AddScoped<ICompraService, CompraService>();
+builder.Services.AddScoped<IInventarioService, InventarioService>();
+
 var app = builder.Build();
 
 
@@ -100,3 +110,4 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+ 

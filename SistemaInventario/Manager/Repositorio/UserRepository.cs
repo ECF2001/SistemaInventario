@@ -1,7 +1,7 @@
 ﻿using Manager.Datos;
 using Manager.Repositorio;
 
-namespace DreamInCode.Manager.Repository
+namespace SistemaInventario.Manager.Repositorio
 {
     public interface IUserRepository : IRepository
     {

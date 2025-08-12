@@ -1,15 +1,12 @@
-﻿using DreamInCode.Manager.DTO;
-using Microsoft.Extensions.Configuration;
-using Microsoft.IdentityModel.Tokens;
-using System.IdentityModel.Tokens.Jwt;
+﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using SistemaInventario.DTO;
-using System.Data.SqlClient;
 using Dapper;
+using DreamInCode.Manager.DTO;
 using Microsoft.Data.SqlClient;
+using Microsoft.IdentityModel.Tokens;
 
-namespace DreamInCode.Manager.Services
+namespace SistemaInventario.Manager.Servicios
 {
     public interface IAuthService
     {

@@ -1,14 +1,8 @@
-﻿using Dapper;
-using DreamInCode.Manager.DTO;
-using DreamInCode.Manager.Repository;
-using Manager.Repositorio;
+﻿using Manager.Repositorio;
 using Manager.Servicios;
-using SistemaInventario.DTO;
 using SistemaInventario.Manager.DTO;
-using System.Data.SqlClient;
 
-
-namespace DreamInCode.Manager.Services
+namespace SistemaInventario.Manager.Servicios
 {
     public interface IVentaService : ICrud<Ventas>
     {

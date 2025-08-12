@@ -1,4 +1,4 @@
-﻿namespace DreamInCode.Manager.Repository
+﻿namespace SistemaInventario.Manager.Repositorio
 {
     public class AuthRepository
     {

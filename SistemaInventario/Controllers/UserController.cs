@@ -1,7 +1,7 @@
 ﻿using DreamInCode.Manager.DTO;
-using DreamInCode.Manager.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SistemaInventario.Manager.Servicios;
 
 namespace DreamInCode.Controllers
 {
