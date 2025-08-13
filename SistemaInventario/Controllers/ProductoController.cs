@@ -1,5 +1,6 @@
 ﻿using DTO;
 using Manager.Servicios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SistemaInventario.DTO;
@@ -9,6 +10,7 @@ namespace SistemaInventario.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class ProductoController : ControllerBase
     {
         private readonly IProductoService _productoService;
@@ -27,11 +29,13 @@ namespace SistemaInventario.Controllers
             return Ok(productos);
         }
 
-        [HttpGet("GetById")]
+        [HttpGet("GetById/{id:int}")]
         public async Task<ActionResult<Productos>> GetById(int id)
         {
             var producto = await _productoService.GetByIdAsync(id);
-            if (producto == null) return NotFound();
+            if (producto == null)
+                return NotFound();
+
             return Ok(producto);
         }
 
