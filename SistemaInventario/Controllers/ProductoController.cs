@@ -57,10 +57,11 @@ namespace SistemaInventario.Controllers
 
       
         [HttpDelete("Delete")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete([FromQuery] int id)
         {
             var producto = await _productoService.GetByIdAsync(id);
             if (producto == null) return NotFound();
+
             await _productoService.DeleteAsync(producto);
             return NoContent();
         }
